@@ -15,7 +15,7 @@ namespace SampleWebApplicationAzureG3.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Gouvtham Natarajan's page.";
+            ViewBag.Message = "Gouvtham Natarajan's page Updated.";
 
             return View();
         }
